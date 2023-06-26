@@ -1,0 +1,26 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Harachili's portfolio"
+
+theme = 'risotto'
+
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+ignoreErrors = ["error-remote-getjson"]
+
+[params.theme]
+palette = "base16-dark"
+
+[params.about]
+title = 'Harachili'
+description = 'Drinking and capturing flags | MS student in Cybersecurity @ EIT Digital - UniTn x UTwente'
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "CTFs_writeup"
+    name = "CTFs writeups"
+    url = "/CTFs_writeup/"
+    weight = 10
