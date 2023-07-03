@@ -17,10 +17,4 @@ description = 'Drinking and capturing flags | MS student in Cybersecurity @ EIT 
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
 
-[menu]
 
-  [[menu.main]]
-    identifier = "CTFs_writeup"
-    name = "CTFs writeups"
-    url = "/CTFs_writeup/"
-    weight = 10

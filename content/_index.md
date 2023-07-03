@@ -18,5 +18,5 @@ I'll also link here the projects on which I work, either personal ones or for un
 
 
 [CCIT]: https://cyberchallenge.it/
-[writeups]: ctfs_writeup
+[writeups]: challenges_writeup
 [projects]: projects
