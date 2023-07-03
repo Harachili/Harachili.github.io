@@ -5,14 +5,13 @@ tags: '31337'
 aliases: ['about-me']
 ---
 
-**This is where I talk about me**
+**I'm a first-year student enrolled in the Master's program in Cybersecurity offered by the EIT-Digital course**
 
-Not ready, yet!
+What have I done so far?
 
-- probably
-- gonna
-- Ctrl+C
-- Ctrl+V
-- from
-- CV (lol)
+- High school diploma in scientific studies (100L/100)
+- Cyberchallenge.it 2022 (national finalist)
+- Bachelor's degree in Computer Science (110L/110)
+- Cyberchallenge.it instructor in cryptography 
+
 
