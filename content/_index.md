@@ -6,7 +6,7 @@ This is [me](about)
 
 Above all the things I'm most passionate about, ethical hacking is by far the one that never bores me to study (and practicing!) 
 
-I started this journey thanks to the [cyberchallenge.it][CCIT] program. After that, to keep learning about how to exploit vulnerabilities with best practices, I started solving regularly CTFs, particularly crypto challenges are what entertains me the most, even though I try to work also on web challenges (btw, I should really start doing binary exploitation :) ).
+I started this journey thanks to the [cyberchallenge.it][CCIT] program in 2022. After that, to keep learning about how to exploit vulnerabilities with best practices, I started solving regularly CTFs, particularly crypto challenges are what entertains me the most, even though I try to work also on web challenges (btw, I should really start doing binary exploitation :) ).
 
 Here I'm going to put writeups for the challenges I solve that I enjoyed the most working on: [CTFs\_writeup][writeups]
 

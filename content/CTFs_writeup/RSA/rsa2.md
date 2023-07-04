@@ -1,3 +1,8 @@
+---
+title: "poly-RSA"
+tags: "CryptoCTF - 2022"
+---
+
 p and q generated with polynomials with a factor k in common
 
 We are given this code, in which we can see how p and q are generated:

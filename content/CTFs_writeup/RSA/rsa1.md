@@ -1,3 +1,8 @@
+---
+title: "baby-rsa"
+tags: "DiceCTF - 2022"
+---
+
 256-bit RSA where e^2|p−1 and e^2|q−1. 
 
 Intended solution: factor N, then use sage's nth_root() function to get all candidate decryptions. 
