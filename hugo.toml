@@ -17,4 +17,18 @@ description = 'Drinking and capturing flags | MS student in Cybersecurity @ EIT 
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
 
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/Harachili"
 
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/leonardo-danella-4397b5191/"
+
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:leonardo.danella36@gmail.com"
