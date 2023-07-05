@@ -1,4 +1,11 @@
-We are given a source code:
+---
+title: "Time Capsule"
+tags: "CryptoCTF 2019"
+---
+
+I clearly didn't solve this challenge during the CTF, since this happened when I had no idea what a CTF was, but I did a writeup of it for the sole purpose of how instructive I found it.  
+
+So, we are given a source code:
 ```python
 #!/usr/bin/env python
 
@@ -32,7 +39,7 @@ n = 0x3ff77ad8783e006b6a2c9857f2f13a9d896297558e7c986c491e30c1a920512a0bad9f07c5
 c = 0x2672cade2272f3024fd2d1984ea1b8e54809977e7a8c70a07e2560f39e6fcce0e292426e28df51492dec67d000d640f3e5b4c6c447845e70d1432a3c816a33da6a276b0baabd0111279c9f267a90333625425b1d73f1cdc254ded2ad54955914824fc99e65b3dea3e365cfb1dce6e025986b2485b6c13ca0ee73c2433cf0ca0265afe42cbf647b5c721a6e51514220bab8fcb9cff570a6922bceb12e9d61115357afe1705bda3c3f0b647ba37711c560b75841135198cc076d0a52c74f9802760c1f881887cc3e50b7e0ff36f0d9fa1bfc66dff717f032c066b555e315cb07e3df13774eaa70b18ea1bb3ea0fd1227d4bac84be2660552d3885c79815baef661
 ```
 
-As I start analyzing the code, I notice that, because of the assertion, the e must be in the form 2**k - 1 for some k.  
+As I start analyzing the code, I notice that, because of the assertion, the e must be in the form 2**k - 1 for some k (It has to be a [Marsenne prime][Marsenne]).  
 Then I see that the function adlit(x) returns the bitwise xor of x with a number with the same number of bits of x, all set to 1.  
   
 I calculate p + q = p + (adlit(p) + 31337) = (p + adlit(p)) + 31337 = (2\*\*k - 1) + 31337 = 2\*\*k + 31336  
@@ -97,4 +104,9 @@ while True:				# find e (bruteforce)
         break
 
 print(plaintext)
+
+# CCTF{it5_3a5y_l1k3_5uNd4y_MOrn1N9}
 ```
+
+
+[Marsenne]: https://en.wikipedia.org/wiki/Mersenne_prime
