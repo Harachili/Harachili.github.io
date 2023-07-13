@@ -5,13 +5,13 @@ tags: '31337'
 aliases: ['about-me']
 ---
 
-**I'm a first-year student enrolled in the Master's program in Cybersecurity offered by the EIT-Digital course**
+**I'm a first-year student enrolled in the Master's program in Cybersecurity offered by [EIT-Digital](https://www.eitdigital.eu/)**
 
 What have I done so far?
 
 - High school diploma in scientific studies (100L/100)
 - Cyberchallenge.it 2022 (national finalist)
 - Bachelor's degree in Computer Science (110L/110)
-- Cyberchallenge.it instructor in cryptography 
+- Cyberchallenge.it 2023 instructor in cryptography 
 
 
