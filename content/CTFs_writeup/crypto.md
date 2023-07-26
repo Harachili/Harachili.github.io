@@ -7,3 +7,4 @@ The challenges are not going to be in order of difficulty, since I've decided to
 
 - RSA challenges: [RSA](../rsa)  
 - AES challenges: [AES](../aes)
+- generic challenges: [generic](../generic)
