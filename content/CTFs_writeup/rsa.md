@@ -9,4 +9,5 @@ title: "rsa"
 - Simple oracle that decrypts whatever != flag: [rsa4](rsa4)  
 - Leak of (p-2)\*(q-1) and of (p-1)\*(q-2): [rsa5](rsa5)  
 - Find n having phi, with p = 2\*q + 1: [rsa6](rsa6)  
-- Leak of many public keys and their corresponding ciphertexts: [rsa7](rsa7)
+- Leak of many public keys and their corresponding ciphertexts: [rsa7](rsa7)  
+- Leak of an high number of MSBs of p: [rsa8](rsa8)  
