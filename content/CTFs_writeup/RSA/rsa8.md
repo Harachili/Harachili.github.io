@@ -11,7 +11,7 @@ Factorizing large numbers is too easy, so I thought I'll just give you 1 of the 
 ```
 
 As soon as I read this, I didn't even want to download the file, since I thought it was a preliminary challenge just to make people understand how RSA works.  
-But then I saw that it had few solves (even though it was the most solved challenge), so I decided to give it a try.  
+But then I saw that it had few solves (even though it was the most solved crypto challenge), so I decided to give it a try.  
 We can see the chall.py file:
     
 ```python
