@@ -4,6 +4,8 @@ title: "Robust Image Watermarking"
 
 <br></br>
 
+# Robust Image Watermarking
+
 The Robust Image Watermarking is a technique based on Discrete Wavelet Transform ([DWT](https://en.wikipedia.org/wiki/Discrete_wavelet_transform)) and All Phase Discrete Cosine Biorthogonal Transform ([APDCBT](https://link.springer.com/article/10.1007/s11042-023-16106-1)), implemented for the "Multimedia Data Security" project.  
 
 To have a look at the project source code, go [here](https://github.com/Harachili/robust_image_watermarking), while to read the paper on which this implementation was based, go [here](https://www.mdpi.com/2073-8994/10/3/77).  
