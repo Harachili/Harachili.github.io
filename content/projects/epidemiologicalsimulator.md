@@ -8,7 +8,7 @@ This is my first project: a simulator for epidemies!
 
 To see all the files with classes and comments in Italian go visit [here](https://github.com/Harachili/simulatore_epidemiologico).  
 
-Meanwhile, to visit the English version of the project, go [here](https://github.com/Harachili/EpidemiologicalSimulator).  
+Meanwhile, to look at the English version of the project, go [here](https://github.com/Harachili/EpidemiologicalSimulator).  
 
 The "Epidemiological Simulator" is a Java program designed to simulate the spread of infectious diseases within different populations. This interactive and educational tool allows users to explore various scenarios and strategies for managing epidemics. Whether you're interested in modeling the dynamics of a well-known virus like COVID-19 or creating custom scenarios with different parameters, this program offers a flexible platform for experimentation.
 
