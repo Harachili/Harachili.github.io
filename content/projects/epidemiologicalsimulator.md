@@ -4,8 +4,6 @@ title: "Epidemiological Simulator"
 
 <br></br>
 
-# Epidemiological Simulator
-
 This is my first project: a simulator for epidemies!  
 
 To see all the files with classes and comments in Italian go visit [here](https://github.com/Harachili/simulatore_epidemiologico).  
