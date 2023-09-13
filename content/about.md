@@ -13,5 +13,5 @@ What have I done so far?
 - Cyberchallenge.it 2022 (national finalist)
 - Bachelor's degree in Computer Science (110L/110)
 - Cyberchallenge.it 2023 instructor in cryptography  
-
+- Partecipated at DefCon CTF Finals and Hack-A-Sat 4 with mHACKeroni and won the latter
 
