@@ -1,6 +1,8 @@
 # Exploring the P vs. NP Problem
 
-In the Honors Program for the academic year 2020/2021, under the guidance of Professor [Nicola Galesi](https://scholar.google.com/citations?user=0Ch05b4AAAAJ), I delved into the renowned `P = NP?` problem. This problem, formulated by Stephen Cook of the University of Toronto in the 1970s, seeks to answer a fundamental question: Are efficient deterministic computations sufficient to capture efficient non-deterministic computations? In this context, efficiency refers to algorithms with polynomial time complexity.
+In the Honors Program for the academic year 2020/2021, under the guidance of Professor [Nicola Galesi](https://scholar.google.com/citations?user=0Ch05b4AAAAJ), I delved into the renowned `P = NP?` problem. This problem, formulated by Stephen Cook of the University of Toronto in the 1970s, seeks to answer a fundamental question: Are efficient deterministic computations sufficient to capture efficient non-deterministic computations? In this context, efficiency refers to algorithms with polynomial time complexity.  
+The italian version of the written paper is [here](https://github.com/Harachili/relazione_percorso_d_eccellenza). This work was done during my bachelor's degree, which was fully in italian.  
+In this journey through the fascinating world of computational complexity theory, I have had the privilege of being one of the six individuals elected for the Honour's Program. It's a distinction I hold with great pride, and I've approached theoretical computer science with great enthusiasm.
 
 ## The Challenge Illustrated
 
@@ -62,10 +64,6 @@ In this chapter, I've introduced the Pigeon Hole Principle (`PHP`) and its relev
 My final chapter ties together the concepts explored in previous sections. I've investigated how the `Pigeon Hole Principle` is employed to analyze and demonstrate the constraints of `tree-like resolution XOR` proof systems. I've, moreover, discussed noteworthy results and insights gleaned from this analysis.  
 In particular, I've talked about the proof, which is the actual state of the art as a lower bound for ![equation](https://latex.codecogs.com/svg.latex?%5Ccolor%7Bwhite%7DPHP_%7Bn%7D%5E%7Bm%7D) by [Itsykson e Sokolov](https://logic.pdmi.ras.ru/~sokolov/files/papers/splitting.pdf).  
 
-
-### Conclusion
-
-In this journey through the fascinating world of computational complexity theory, I have had the privilege of being one of the six individuals elected for the Honour's Program. It's a distinction I hold with great pride, and I've approached the realm of theoretical computer science with great enthusiasm.
 
 
 
