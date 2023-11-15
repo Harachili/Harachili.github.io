@@ -10,12 +10,9 @@ I started this journey thanks to the [cyberchallenge.it][CCIT] program in 2022. 
 
 Here I'm going to put writeups for the challenges I solve that I enjoyed the most working on: [CTFs\_writeup][writeups]
 
-
 ## Projects
 
 I'll also link here the projects on which I work, either personal ones or for university: [Projects][projects]
-
-
 
 [CCIT]: https://cyberchallenge.it/
 [writeups]: challenges_writeup

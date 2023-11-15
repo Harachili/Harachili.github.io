@@ -14,4 +14,4 @@ What have I done so far?
 - Bachelor's degree in Computer Science (110L/110)
 - Cyberchallenge.it 2023 instructor in cryptography  
 - Partecipated at DefCon CTF Finals and Hack-A-Sat 4 with mHACKeroni and won the latter
-
+- Qualified to the csaw-ESC 2023 finals with TRX
