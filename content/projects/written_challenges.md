@@ -5,4 +5,4 @@ aliases: ['writtenchallenges', 'WrittenChallenges', written_challenges, Written_
 
 This page is a portal to the challenges and writeups I'll write.
 
-- R3l4ted Pr1mes (Crypto) [Challenge](./r3l4ted_pr1mes)
+- R3l4ted Pr1mes (Crypto) [Download Challenge](./r3l4ted_pr1mes.zip)
