@@ -15,3 +15,5 @@ Dopo la lettura del secondo capitolo, potete iniziare a discutere vostre possibi
 Nel terzo capitolo, scoprite se avete ragione. Gli inoocennti vincono se la votazione punta per maggioranza al vero assassino. L'assassino vince se non viene scoperto (lol).  
 Se il colpevole risulta ovvio in una fase precedente del gioco, gg a chi l'ha scoperto o not gg all'assassino che si è fatto sgamare.  
 Parte del divertimento consiste nel calarsi nel personaggio, quindi leggete il vostro libretto in anticipo, e se riuscite travestitevi/portate oggetti di scena per migliorare la serata.  
+
+No path traversal @Nicco
